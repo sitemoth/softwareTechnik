@@ -20,5 +20,6 @@ class HelloWorld
         long minutesBetween = Duration.between( tStart, tNow ).toMinutes();
 
         System.out.println( "MINUTES SINCE STUDY START " + minutesBetween );
+        System.out.println("Elite Programmierer");
     }
 }
